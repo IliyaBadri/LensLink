@@ -1,2 +1,2 @@
 # LensLink
-An android app to convert your phone into a webcam.
+An android app to use your phone as a webcam.
